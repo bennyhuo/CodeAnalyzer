@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/jxl-2.6.12.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/CodeAnalyzer/libs/jxl-2.6.12-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/itext-pdfa-5.5.4.jar" sourcepath="libs/itext-pdfa-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itext-xtra-5.5.4.jar" sourcepath="libs/itext-xtra-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.4.jar" sourcepath="libs/itextpdf-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/itext-asian.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

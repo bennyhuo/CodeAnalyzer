@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: libs/jxl-2.6.12.jar
+Main-Class: com.piglet.codeanalyzer.Bootstrap
